@@ -4,3 +4,8 @@ git add
 git commit
 git rm filename
 git restore filename
+git push origin master
+git remote -v
+git remote set-url origin ttps://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.@github.com//Ameernadaf/github-for-devops-workshop.git  
+4.git remote -v
+git push origin master---to push code from local to github
