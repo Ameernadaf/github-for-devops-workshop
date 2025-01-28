@@ -10,3 +10,4 @@ git remote set-url origin ttps://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.@githu
 4.git remote -v
 git push origin master---to push code from local to github
   we got somenew changes here
+added some new changes
